@@ -696,6 +696,11 @@ p {
     margin: 0;
 }
 
+.footer-legal {
+    display: flex;
+    gap: 24px;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .container {
